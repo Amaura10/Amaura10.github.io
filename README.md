@@ -1,1 +1,1 @@
-# Amaura10.github.io
+Amaura Burgess's CSCE 190 Site
